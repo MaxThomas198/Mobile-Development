@@ -1,0 +1,4 @@
+include ':TodosAppAPI_MaxwellThomas'
+include ':todoswatchapp'
+include ':app'
+rootProject.name = "Assignment2TodosApp_MaxwellThomas"

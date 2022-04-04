@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152764604181",
+    "project_id": "assignment2todosapp-cea7b",
+    "storage_bucket": "assignment2todosapp-cea7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152764604181:android:297e508f9729a827ab931c",
+        "android_client_info": {
+          "package_name": "com.usu.Assignment2TodosApp_MaxwellThomas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152764604181-7q9eqbqr5r54ff3d0shqr6n2f8l5qh3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzThAQIvEfY89nzDtPPUnVo52wsB7BSu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152764604181-7q9eqbqr5r54ff3d0shqr6n2f8l5qh3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

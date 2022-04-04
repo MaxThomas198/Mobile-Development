@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485980740017",
+    "firebase_url": "https://maxthomasgrocerylistproject1-default-rtdb.firebaseio.com",
+    "project_id": "maxthomasgrocerylistproject1",
+    "storage_bucket": "maxthomasgrocerylistproject1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485980740017:android:c57d32228770e3b0290590",
+        "android_client_info": {
+          "package_name": "com.maxwellthomasgrocerylistproject1.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485980740017-fu1u52ue4aila8a02bhjb15j676vls0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoC9szd6y497aPFdRS3JwVsR3eWvUruCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485980740017-fu1u52ue4aila8a02bhjb15j676vls0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

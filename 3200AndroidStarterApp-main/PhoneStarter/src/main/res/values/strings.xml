@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adventure App</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWF4dGhvbWFzIiwiYSI6ImNrbmRsMXg2NDFrM3UydnBqbWw3ZDNyM3gifQ.NUklLMhBKBR1QEzhDzWKoA</string>
+</resources>

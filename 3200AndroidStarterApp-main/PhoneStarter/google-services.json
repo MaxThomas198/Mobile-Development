@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "820234360398",
+    "firebase_url": "https://project2-c7361-default-rtdb.firebaseio.com",
+    "project_id": "project2-c7361",
+    "storage_bucket": "project2-c7361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820234360398:android:62823c546cc193f6b7951f",
+        "android_client_info": {
+          "package_name": "com.maxwellthomasadventureappproject2.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820234360398-69deu9ih09dq8i5e1d3hhtj6o57ufpiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyQaJfwdkHnd1igvWy11RqrOVahWmWq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820234360398-69deu9ih09dq8i5e1d3hhtj6o57ufpiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820234360398:android:86abc2d92b61305bb7951f",
+        "android_client_info": {
+          "package_name": "com.usu.maxwellthomasadventureappproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820234360398-69deu9ih09dq8i5e1d3hhtj6o57ufpiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyQaJfwdkHnd1igvWy11RqrOVahWmWq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820234360398-69deu9ih09dq8i5e1d3hhtj6o57ufpiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

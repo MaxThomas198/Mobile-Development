@@ -1,0 +1,4 @@
+include ':GroceryListWatchApp'
+include ':API'
+include ':GroceryListPhoneApp'
+rootProject.name = "Project1_GroceryList"
